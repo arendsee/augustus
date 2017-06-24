@@ -1,0 +1,25 @@
+# compilation artefacts
+
+*.o
+
+
+
+# binaries
+
+bin
+
+src/augustus
+src/consensusFinder
+src/curve2hints
+src/etraining
+src/fastBlockSearch
+src/prepareAlign
+
+scripts/aln2wig/aln2wig
+scripts/aln2wig/compileSpliceCands
+
+
+
+# miscellaneous
+
+cflags
