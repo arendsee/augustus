@@ -1,0 +1,48 @@
+[Breakpoint 0]
+Enabled=true
+File=namgene.cc
+Line=1211
+Temporary=false
+
+[Breakpoint 1]
+Enabled=true
+File=igenicmodel.cc
+Line=208
+Temporary=false
+
+[Breakpoint 2]
+Enabled=true
+File=igenicmodel.cc
+Line=219
+Temporary=false
+
+[Breakpoint 3]
+Enabled=true
+File=igenicmodel.cc
+Line=276
+Temporary=false
+
+[Breakpoint 4]
+Enabled=true
+File=igenictrain.cc
+Line=176
+Temporary=false
+
+[Breakpoint 5]
+Enabled=true
+File=igenictrain.cc
+Line=177
+Temporary=false
+
+[General]
+DebuggerCmdStr=
+DriverName=GDB
+FileVersion=1
+OptionsSelected=
+ProgramArgs=--AUGUSTUS_CONFIG_PATH=/home/mario/augustus/trunk/config/ --species=human2 --CRF=on t.gb
+TTYLevel=7
+WorkingDirectory=
+
+[Memory]
+ColumnWidths=80,0
+NumExprs=0
